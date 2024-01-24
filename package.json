@@ -1,6 +1,6 @@
 {
   "name": "quote-personalities",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get quotes of famous personalities ",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,10 @@
   "keywords": [
     "quotes",
     "personalities"
+  ],
+  "files": [
+    "index.js",
+    "quotes.js"
   ],
   "author": "Sujeet Singh",
   "license": "ISC",
